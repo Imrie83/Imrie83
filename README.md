@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Imrie83
 - 👀 I’m interested in learning python/ back end, IoT, ML
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python / Django
 - 📫 How to reach me: zielinskimar83@gmail.com
 
 <!---
